@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Node.js Essentials" Page="9" Open="0" />
+  <Item ID="2" Name="Credits" Page="11" Open="0" />
+  <Item ID="3" Name="About the Author" Page="13" Open="0" />
+  <Item ID="4" Name="About the Reviewer" Page="15" Open="0" />
+  <Item ID="5" Name="www.PacktPub.com" Page="17" Open="0" />
+  <Item ID="6" Name="Support files, eBooks, discount offers, and more" Page="19" Open="0" />
+  <Item ID="7" Name="Why subscribe?" Page="20" Open="0" />
+  <Item ID="8" Name="Free access for Packt account holders" Page="21" Open="0" />
+  <Item ID="9" Name="Preface" Page="22" Open="0" />
+  <Item ID="10" Name="What this book covers" Page="24" Open="0" />
+  <Item ID="11" Name="What you need for this book" Page="25" Open="0" />
+  <Item ID="12" Name="Who this book is for" Page="27" Open="0" />
+  <Item ID="13" Name="Conventions" Page="29" Open="0" />
+  <Item ID="14" Name="Reader feedback" Page="31" Open="0" />
+  <Item ID="15" Name="Customer support" Page="33" Open="0" />
+  <Item ID="16" Name="Downloading the example code" Page="35" Open="0" />
+  <Item ID="17" Name="Errata" Page="36" Open="0" />
+  <Item ID="18" Name="Piracy" Page="37" Open="0" />
+  <Item ID="19" Name="Questions" Page="38" Open="0" />
+  <Item ID="20" Name="1. Getting Started" Page="39" Open="0" />
+  <Item ID="21" Name="Setting up" Page="41" Open="0" />
+  <Item ID="22" Name="Hello require" Page="42" Open="0" />
+  <Item ID="23" Name="Hello npm" Page="48" Open="0" />
+  <Item ID="24" Name="Summary" Page="52" Open="0" />
+  <Item ID="25" Name="2. Simple HTTP" Page="54" Open="0" />
+  <Item ID="26" Name="Introducing routing" Page="57" Open="0" />
+  <Item ID="27" Name="Summary" Page="64" Open="0" />
+  <Item ID="28" Name="3. Authentication" Page="66" Open="0" />
+  <Item ID="29" Name="Basic authentication" Page="68" Open="0" />
+  <Item ID="30" Name="Bearer tokens" Page="71" Open="0" />
+  <Item ID="31" Name="OAuth" Page="76" Open="0" />
+  <Item ID="32" Name="Summary" Page="79" Open="0" />
+  <Item ID="33" Name="4. Debugging" Page="81" Open="0" />
+  <Item ID="34" Name="Logging" Page="83" Open="0" />
+  <Item ID="35" Name="Error handling" Page="92" Open="0" />
+  <Item ID="36" Name="Summary" Page="95" Open="0" />
+  <Item ID="37" Name="5. Configuration" Page="97" Open="0" />
+  <Item ID="38" Name="JSON files" Page="99" Open="0" />
+  <Item ID="39" Name="Environmental variables" Page="101" Open="0" />
+  <Item ID="40" Name="Arguments" Page="103" Open="0" />
+  <Item ID="41" Name="Summary" Page="105" Open="0" />
+  <Item ID="42" Name="6. Level DB and NoSQL" Page="107" Open="0" />
+  <Item ID="43" Name="Level DB" Page="109" Open="0" />
+  <Item ID="44" Name="MongoDB" Page="112" Open="0" />
+  <Item ID="45" Name="Summary" Page="116" Open="0" />
+  <Item ID="46" Name="7. Socket.IO" Page="118" Open="0" />
+  <Item ID="47" Name="Rooms" Page="123" Open="0" />
+  <Item ID="48" Name="Authentication" Page="125" Open="0" />
+  <Item ID="49" Name="Summary" Page="129" Open="0" />
+  <Item ID="50" Name="8. Creating and Deploying Packages" Page="131" Open="0" />
+  <Item ID="51" Name="Creating npm packages" Page="133" Open="0" />
+  <Item ID="52" Name="Summary" Page="136" Open="0" />
+  <Item ID="53" Name="9. Unit Testing" Page="138" Open="0" />
+  <Item ID="54" Name="Installing mocha" Page="140" Open="0" />
+  <Item ID="55" Name="Chai" Page="142" Open="0" />
+  <Item ID="56" Name="Stubbing methods" Page="144" Open="0" />
+  <Item ID="57" Name="Summary" Page="148" Open="0" />
+  <Item ID="58" Name="10. Using More Than JavaScript" Page="150" Open="0" />
+  <Item ID="59" Name="CoffeeScript" Page="152" Open="0" />
+  <Item ID="60" Name="Code blocks and functions" Page="154" Open="0" />
+  <Item ID="61" Name="The existential operator" Page="157" Open="0" />
+  <Item ID="62" Name="Objects and arrays" Page="159" Open="0" />
+  <Item ID="63" Name="Classes" Page="162" Open="0" />
+  <Item ID="64" Name="Summary" Page="166" Open="0" />
+  <Item ID="65" Name="Index" Page="168" Open="0" />
+</BookmarkExport>
